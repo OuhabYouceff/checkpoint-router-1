@@ -1,0 +1,29 @@
+[
+    {
+        "title": "jumanji",
+        "description":
+        "Amazing film",
+        "posterURL":
+        "https://i.ebayimg.com/images/g/8mIAAOSw9gRaGXi8/s-l500.jpg",
+        "rating": 5.0,
+        "trailer": "https://www.youtube.com/watch?v=2QKg5SZ_35I"
+    },
+    {
+        "title": "interstellar",
+        "description":
+        "Mindblowing",
+        "posterURL":
+        "https://i.pinimg.com/originals/8e/0d/ab/8e0dab8699be85720ce55845065bf6dc.jpg",
+        "rating": 4.5,
+        "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+    },
+    {
+        "title": "Attack on Titans",
+        "description":
+        "Reduce your expectations to zero",
+        "posterURL":
+        "https://i.pinimg.com/564x/64/e2/b4/64e2b476002e71b0068e4482702a2631.jpg",
+        "rating": 3.2,
+        "trailer": "https://www.youtube.com/watch?v=M_OauHnAFc8"
+    }
+    ]

@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+}
+
+
+.movieCard 
+{
+  /* width: 500px; */
+  height: 800px;
+  background-color:brown;
+  color: white;
+  font-size: 17px;
+  border-radius: 20px;
+  border: 4px solid black;
+  /* margin-left: 500px; */
+  margin-top: 30px;
+  padding:2px;
+  /* margin-left: 40px; */
+}
+.movieCard img{
+  /* margin-left: 75px; */
+}
+.Cards
+{
+  /* margin-left: 100px; */
+  text-align: left;
+}
+
+.h3Class{
+margin-left:10px;
+text-align: left;
+}
+
+.labelC
+{
+  margin-left: 10px;
+}
+
+.film1
+{
+  display: flex;
+  margin-left:250;
+  margin-top:20px;
+  border-radius:20px;
+  
+}
+
+.List form input[type="text"],
+input[type="number"],
+textarea {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.AddForm h1{
+  margin-left: 740px;
+}
+body {
+  background-color:antiquewhite;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  padding: 100px;
+}
+
+.movies {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.h3Class{
+color:black;
+}
